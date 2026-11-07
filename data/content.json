@@ -1,0 +1,16 @@
+{
+  "headline": "HDREZKA",
+  "type": "pages",
+  "template": {
+    "type": "button",
+    "layout": "0,0,12,6",
+    "icon": "movie"
+  },
+  "items": [
+    {
+      "title": "Открыть HDRezka",
+      "label": "ФИЛЬМЫ И СЕРИАЛЫ",
+      "action": "link:https://hdrezka.today/"
+    }
+  ]
+}
